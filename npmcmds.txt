@@ -1,0 +1,9 @@
+install npm without options.
+npm init -y
+
+install package in development
+npm i -D
+
+install package in production
+npm i -P
+
